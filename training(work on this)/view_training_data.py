@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-mat = np.array(np.load("training_data_shuffled.npy"))
+mat = np.array(np.load("training_data_shuffled.npy"))  ## file too large to upload on github
 
 
 def print_full():
